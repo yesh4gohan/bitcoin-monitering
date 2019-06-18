@@ -1,0 +1,2 @@
+export const SET_CURRENCY_DATA = "SET_CURRENCY_DATA"
+export const SET_HISTORY = "SET_HISTORY"

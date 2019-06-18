@@ -1,0 +1,22 @@
+{
+  "time": {
+    "updated": "Jun 17, 2019 05:08:00 UTC",
+    "updatedISO": "2019-06-17T05:08:00+00:00",
+    "updateduk": "Jun 17, 2019 at 06:08 BST"
+  },
+  "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index (USD & CNY respectively).",
+  "bpi": {
+    "USD": {
+      "code": "USD",
+      "rate": "9,169.4300",
+      "description": "United States Dollar",
+      "rate_float": 9169.43
+    },
+    "CNY": {
+      "code": "CNY",
+      "rate": "40,202.5000",
+      "description": "Chinese Yuan",
+      "rate_float": 40202.5
+    }
+  }
+}
